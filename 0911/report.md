@@ -10,7 +10,7 @@
 
 
 
-  ![not load](./img/table_linear.png) 
+  ![not load](./img/table_power.png) 
 
 - 體積: 26.714 cm^3 線性: 33.05% 指數: 0.49% 
 
