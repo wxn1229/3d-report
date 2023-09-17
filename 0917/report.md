@@ -5,7 +5,7 @@ LiDAR (光達)
 
 ## depth spec
 
-![img](./img/depth-spec.png) 
+![img](./img/depth-spec.png)
 
 ## 預設設定
 
@@ -34,7 +34,7 @@ LiDAR (光達)
 
 ## 深度品質規格
 
-![img](./img/depth_quality.png) 
+![img](./img/depth_quality.png)       
 
 
 ## 結論
@@ -44,6 +44,10 @@ LiDAR (光達)
 
 
 - 深度要減去 4.5mm
-- 租借的攝影機是使用 IR(紅外線) 的方式去測量深度理論上不會比較精準，且攝影機沒有支援RGB的畫面
+- 租借的攝影機是使用 IR(紅外線) 的方式去測量深度理論上不會比較精準
+    
+    ![img](./img/G53.png) 
+
+
 
 
